@@ -9,6 +9,10 @@
 
 ## 🎯 About Me
 
+<table>
+<tr>
+<td width="56%" valign="top">
+
 ```ts
 const reyes = {
   role: "Full-Stack Developer",
@@ -36,18 +40,29 @@ const reyes = {
 };
 ```
 
+> *"Programs must be written for people to read, and only incidentally for machines to execute."*
+>
+> **— Harold Abelson**
+
+</td>
+<td width="44%" valign="top">
+
+<img src="./assets/about.jpg" alt="Workspace" width="100%" />
+
+</td>
+</tr>
+</table>
+
 **EN** — I'm a full-stack developer focused on building SaaS products end to end: React + TypeScript on the frontend, Node.js + Express on the backend. I work with AI agents as part of my daily engineering workflow to design, build and ship software faster without giving up code quality.
 
 **ES** — Soy desarrollador full-stack enfocado en construir productos SaaS de punta a punta: React + TypeScript en el frontend y Node.js + Express en el backend. Trabajo con agentes de IA como parte de mi flujo diario de ingeniería para entregar software más rápido sin sacrificar la calidad del código.
-
-> *"Programs must be written for people to read, and only incidentally for machines to execute."*
-> — Harold Abelson
 
 ## 🔗 Connect With Me
 
 <div align="center">
   <a href="https://github.com/ReyesRivera11"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
-  <a href="mailto:reyes.r4d@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" /></a>
+  <a href="https://www.instagram.com/reyesbautistarivera/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+  <a href="mailto:reyesrivera0506@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" /></a>
 </div>
 
 ## 🛠️ Tech Stack
