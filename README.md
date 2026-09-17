@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,50:0B3D91,100:00D4FF&text=Reyes%20Rivera&fontColor=FFFFFF&fontSize=60&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20AI-Driven%20Engineering&descAlignY=57&descSize=18" alt="Reyes Rivera — Full-Stack Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:0B3D91,100:00D4FF" alt="" width="100%" />
 
-**Building SaaS products end to end · React + TypeScript · Node.js + Express · AI agents**
+<h1>Reyes Rivera</h1>
+
+<h3>Full-Stack Developer · AI-Driven Engineering</h3>
+
+<p><b>Building SaaS products end to end · React + TypeScript · Node.js + Express · AI agents</b></p>
 
 <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
