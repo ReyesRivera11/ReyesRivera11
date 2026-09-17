@@ -1,16 +1,40 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ReyesRivera11/ReyesRivera11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:0B3D91,100:00D4FF&text=Reyes%20Rivera&fontColor=FFFFFF&fontSize=64&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI-Driven%20Engineering&descAlignY=60&descSize=20&animation=fadeIn" alt="Reyes Rivera — Full-Stack Developer" width="100%" />
 
-Here are some ideas to get you started:
+<a href="https://github.com/ReyesRivera11">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=00D4FF&center=true&vCenter=true&width=720&lines=Building+SaaS+products+with+React+%2B+TypeScript;Designing+APIs+with+Node.js+%2B+Express;Shipping+faster+with+AI+agents;Construyendo+software+que+escala" alt="Typing intro" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express" />
+<img src="https://img.shields.io/badge/AI%20Agents-0D1117?style=for-the-badge&logo=anthropic&logoColor=00D4FF" alt="AI Agents" />
+
+</div>
+
+<br/>
+
+## `> whoami`
+
+**EN** — I'm a full-stack developer focused on building SaaS products end to end: React + TypeScript on the frontend, Node.js + Express on the backend. I work with AI agents as part of my daily engineering workflow to design, build and ship software faster without giving up code quality. I care about clean architecture, reusable cores and products that actually reach users.
+
+**ES** — Soy desarrollador full-stack enfocado en construir productos SaaS de punta a punta: React + TypeScript en el frontend y Node.js + Express en el backend. Trabajo con agentes de IA como parte de mi flujo diario de ingeniería para diseñar, construir y entregar software más rápido sin sacrificar la calidad del código. Me importan la arquitectura limpia, los núcleos reutilizables y los productos que realmente llegan a los usuarios.
+
+```ts
+const reyes = {
+  role: "Full-Stack Developer",
+  frontend: ["React", "TypeScript"],
+  backend: ["Node.js", "Express"],
+  workflow: ["AI agents", "automation"],
+  location: "México",
+  languages: ["Español", "English"],
+};
+```
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:00D4FF,50:0B3D91,100:0D1117&section=footer" alt="" width="100%" />
+</div>
