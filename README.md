@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:0B3D91,100:00D4FF&text=Reyes%20Rivera&fontColor=FFFFFF&fontSize=64&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI-Driven%20Engineering&descAlignY=60&descSize=20&animation=fadeIn" alt="Reyes Rivera — Full-Stack Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,50:0B3D91,100:00D4FF&text=Reyes%20Rivera&fontColor=FFFFFF&fontSize=60&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20AI-Driven%20Engineering&descAlignY=57&descSize=18" alt="Reyes Rivera — Full-Stack Developer" width="100%" />
 
-<a href="https://github.com/ReyesRivera11">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=00D4FF&center=true&vCenter=true&width=720&lines=Building+SaaS+products+with+React+%2B+TypeScript;Designing+APIs+with+Node.js+%2B+Express;Shipping+faster+with+AI+agents;Construyendo+software+que+escala" alt="Typing intro" />
-</a>
-
-<br/>
+**Building SaaS products end to end · React + TypeScript · Node.js + Express · AI agents**
 
 <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
@@ -36,5 +32,5 @@ const reyes = {
 ```
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:00D4FF,50:0B3D91,100:0D1117&section=footer" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00D4FF,50:0B3D91,100:0D1117&section=footer" alt="" width="100%" />
 </div>
