@@ -66,19 +66,16 @@ const reyes = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ReyesRivera11&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=9FB0C3&count_private=true" alt="GitHub stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyesRivera11&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=9FB0C3&langs_count=8" alt="Top languages" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ReyesRivera11&theme=github_dark" alt="Profile details" width="92%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ReyesRivera11&hide_border=true&background=0D1117&stroke=1B2836&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=9FB0C3&dates=9FB0C3&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="Streak" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ReyesRivera11&theme=github_dark" alt="Top languages by repo" height="200" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ReyesRivera11&theme=github_dark" alt="Top languages by commit" height="200" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ReyesRivera11&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=0B3D91&title_color=00D4FF" alt="Activity graph" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ReyesRivera11&theme=github_dark" alt="Stats" height="200" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ReyesRivera11&theme=github_dark&utcOffset=-6" alt="Productive time" height="200" />
 
-</div>
+<img src="https://streak-stats.demolab.com/?user=ReyesRivera11&hide_border=true&background=0D1117&stroke=1B2836&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=9FB0C3&dates=9FB0C3&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="Streak" height="180" />
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ReyesRivera11&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
 </div>
 
 <div align="center">
