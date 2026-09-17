@@ -72,9 +72,8 @@ const reyes = {
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ReyesRivera11&theme=github_dark" alt="Top languages by commit" height="200" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ReyesRivera11&theme=github_dark" alt="Stats" height="200" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ReyesRivera11&theme=github_dark&utcOffset=-6&v=2" alt="Productive time" height="200" />
 
-<img src="https://streak-stats.demolab.com/?user=ReyesRivera11&disable_animations=true&hide_border=true&background=0D1117&stroke=1B2836&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=9FB0C3&dates=9FB0C3&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="Streak" height="180" />
+<img src="https://streak-stats.demolab.com/?user=ReyesRivera11&disable_animations=true&hide_border=true&background=0D1117&stroke=1B2836&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=9FB0C3&dates=9FB0C3&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="Streak" height="185" />
 
 </div>
 
