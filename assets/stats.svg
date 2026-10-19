@@ -25,22 +25,22 @@
   <text x="440" y="78" fill="#9FB0C3" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13">JavaScript</text>
   <rect x="560" y="67" width="232" height="9" rx="4.5" fill="#1B2836"/>
   <rect x="560" y="67" width="83" height="9" rx="4.5" fill="#F1E05A"/>
-  <text x="844" y="78" fill="#FFFFFF" text-anchor="end" font-family="Consolas, Menlo, Monaco, monospace" font-size="12">35.7%</text>
+  <text x="844" y="78" fill="#FFFFFF" text-anchor="end" font-family="Consolas, Menlo, Monaco, monospace" font-size="12">35.9%</text>
   <text x="440" y="107" fill="#9FB0C3" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13">TypeScript</text>
   <rect x="560" y="96" width="232" height="9" rx="4.5" fill="#1B2836"/>
   <rect x="560" y="96" width="74" height="9" rx="4.5" fill="#3178C6"/>
-  <text x="844" y="107" fill="#FFFFFF" text-anchor="end" font-family="Consolas, Menlo, Monaco, monospace" font-size="12">31.8%</text>
+  <text x="844" y="107" fill="#FFFFFF" text-anchor="end" font-family="Consolas, Menlo, Monaco, monospace" font-size="12">31.7%</text>
   <text x="440" y="136" fill="#9FB0C3" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13">Dart</text>
   <rect x="560" y="125" width="232" height="9" rx="4.5" fill="#1B2836"/>
   <rect x="560" y="125" width="42" height="9" rx="4.5" fill="#00B4AB"/>
-  <text x="844" y="136" fill="#FFFFFF" text-anchor="end" font-family="Consolas, Menlo, Monaco, monospace" font-size="12">18.2%</text>
+  <text x="844" y="136" fill="#FFFFFF" text-anchor="end" font-family="Consolas, Menlo, Monaco, monospace" font-size="12">18.1%</text>
   <text x="440" y="165" fill="#9FB0C3" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13">Kotlin</text>
   <rect x="560" y="154" width="232" height="9" rx="4.5" fill="#1B2836"/>
   <rect x="560" y="154" width="15" height="9" rx="4.5" fill="#A97BFF"/>
   <text x="844" y="165" fill="#FFFFFF" text-anchor="end" font-family="Consolas, Menlo, Monaco, monospace" font-size="12">6.4%</text>
   <text x="440" y="194" fill="#9FB0C3" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13">HTML</text>
   <rect x="560" y="183" width="232" height="9" rx="4.5" fill="#1B2836"/>
-  <rect x="560" y="183" width="8" height="9" rx="4.5" fill="#E34C26"/>
+  <rect x="560" y="183" width="7" height="9" rx="4.5" fill="#E34C26"/>
   <text x="844" y="194" fill="#FFFFFF" text-anchor="end" font-family="Consolas, Menlo, Monaco, monospace" font-size="12">3.2%</text>
   <text x="440" y="223" fill="#9FB0C3" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13">Python</text>
   <rect x="560" y="212" width="232" height="9" rx="4.5" fill="#1B2836"/>
