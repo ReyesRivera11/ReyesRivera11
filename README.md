@@ -2,11 +2,6 @@
   <img src="./assets/banner.svg" alt="Reyes Rivera — Full-Stack Developer" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ReyesRivera11&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/ReyesRivera11?style=for-the-badge&color=00D4FF&labelColor=0D1117&logo=github" alt="Followers" />
-</div>
-
 ## 🎯 About Me
 
 <table>
@@ -81,12 +76,7 @@ const reyes = {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ReyesRivera11&theme=github_dark" alt="Profile details" width="92%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ReyesRivera11&theme=github_dark" alt="Top languages by repo" height="200" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ReyesRivera11&theme=github_dark" alt="Top languages by commit" height="200" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ReyesRivera11&theme=github_dark" alt="Stats" height="200" />
+<img src="./assets/stats.svg" alt="GitHub stats" width="94%" />
 
 <img src="https://streak-stats.demolab.com/?user=ReyesRivera11&disable_animations=true&hide_border=true&background=0D1117&stroke=1B2836&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=9FB0C3&dates=9FB0C3&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="Streak" height="185" />
 
